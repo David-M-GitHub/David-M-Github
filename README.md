@@ -2,7 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david-m-github&label=Profile%20VIEWS&color=b8b8b8&style=flat" alt="david-m-github" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david-m-github" alt="david-m-github" /></a> </p>
 
 - 🔭 I’m currently working on [play.alpu.eu](alpu.eu)
 
@@ -20,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/Da#0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Da#0001" height="30" width="40" /></a>
+<a href="https://discord.gg/alpu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Da#0001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
