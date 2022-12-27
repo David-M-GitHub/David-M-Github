@@ -3,17 +3,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david-m-github&label=Profile%20VIEWS&color=b8b8b8&style=flat" alt="david-m-github" /> </p>
 
 
-- 🔭 I’m currently working on [play.alpu.eu](alpu.eu)
+- 🔭 I’m currently working on a Minecraft Server
 
-- 🌱 I’m currently learning **Unreal Engine**
+- 🌱 I’m currently learning **Lua & Java**
 
-- 👯 I’m looking to collaborate on [alpu.eu](alpu.eu)
+- 👯 I’m looking to collaborate on many projects
 
-- 👨‍💻 All of my projects are available at [https://github.com/David-M-GitHub?tab=repositories](https://github.com/David-M-GitHub?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/David-M-GitHub?tab=repositories)
 
 - 💬 Ask me about **Spigot/Paper**
 
-- 📫 How to reach me **david@musacoin.eu**
+- 📫 You can reach me at Discord: **Da#5273**
 
 - ⚡ Fun fact **I am born in 2004**
 
