@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Spigot/Paper**
 
-- 📫 You can reach me at Discord: **Da#5273**
+- 📫 You can reach me at Discord: **Da#1234**
 
 - ⚡ Fun fact **I am born in 2004**
 
