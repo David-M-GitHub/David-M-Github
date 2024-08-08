@@ -5,8 +5,6 @@
   
 
 - 📫 How to reach me? Discord: zdavidx   
-- 📫 Email - david@musa-innovation.com   
-  
 
 <br/>  
 
